@@ -174,7 +174,7 @@ class Home extends Component {
         <div>
           {
             this.state.validDenomination.map((item, index) => (
-              <button key={index} className={'custom-width btn btn-primary ' + (this.state.selectedDenomination == item ? 'selected' : '')} onClick={() => this.selectedDenominationFunc(item)}>{item}<br /></button>
+              <button key={index} className={'mt-3 custom-width btn btn-primary ' + (this.state.selectedDenomination == item ? 'selected' : '')} onClick={() => this.selectedDenominationFunc(item)}>{item}<br /></button>
             ))
           }
         </div>
