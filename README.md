@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### got to ATM-WITHDRAWL-REACT directory
+### run npm install
 
 ### `npm start`
 
