@@ -150,7 +150,6 @@ class Home extends Component {
       step4: false,
       step5: true
     });
-    console.log(resultArray, this.state)
   }
 
 
